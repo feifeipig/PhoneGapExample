@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.fude"
         version   = "1.0.0">
 
-    <name>MirrorSays</name>
+    <name>FuDe</name>
 
     <description>
-        MirrorSays development version.
+        FuDe development version.
     </description>
 
-    <author href="http://mirrorsays.com" email="support@mirrorsays.com">
-        MirrorSays Team
+    <author href="http://fude99.net" email="info@fude99.net">
+        PrismaxLab Inc.
     </author>
 
     <!--
